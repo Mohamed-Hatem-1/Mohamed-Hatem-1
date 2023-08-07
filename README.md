@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hatem-1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hatem-1" /> </p>
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **everything**
+- 💬 Ask me about **Data Structures, Algorithms, Flutter**
 
 - 📫 How to reach me **_itsminee222@gmail.com_**
 
