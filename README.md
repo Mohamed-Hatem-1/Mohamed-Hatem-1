@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Data Structures, Algorithms, Flutter**
 
-- 📫 How to reach me **_Mo.Hatem1911@gmail.com_**
+- 📫 How to reach me **_mo.Hatem1911@gmail.com_**
 
 - ⚡ Fun fact **I eat a lot**
 
