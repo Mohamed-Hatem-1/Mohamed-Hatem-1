@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Data Structures, Algorithms, Flutter**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **_Mo.Hatem1911@gmail.com_**
-
-- ⚡ Fun fact **I eat a lot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
