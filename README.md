@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me **_Mo.Hatem1911@gmail.com_**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-hatem-197431232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin profile of mohamed hatem" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100050200810052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook profile of mohamed hatem" height="30" width="40" /></a>
+<a href="https://x.com/Mhmd_Hatem1911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x profile of mohamed hatem" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Mhmd-Hatem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces link" height="30" width="40" /></a>
 <a href="https://leetcode.com/Mhmd-Hatem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode link" height="30" width="40" /></a>
 </p>
