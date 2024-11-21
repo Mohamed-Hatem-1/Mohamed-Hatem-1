@@ -13,8 +13,9 @@
 <h3 align="left">🚀 My Projects:</h3>
 <ul>
   <li><a href="https://github.com/Abd2lhakam19/Fluent-Hands" target="_blank">FluentHands</a> - An app designed for deaf and non-speaking people, enabling smooth communication.</li>
-  <li><a href="https://github.com/Mohamed-Hatem-1/Quick-Chat" target="_blank">Quick Chat</a> - A basic two-person chat app implementing authentication and Firestore principles.</li>
-  <li><a href="https://github.com/Mohamed-Hatem-1/weather_app" target="_blank">Weather App</a> - A simple app providing weather updates.</li>
+  <li><a href="https://github.com/Mohamed-Hatem-1/Notes-App" target="_blank">Notes App</a> - A Flutter notes app with a dark theme, allowing users to add, edit, and color-code their notes.</li>
+  <li><a href="https://github.com/Mohamed-Hatem-1/Quick-Chat" target="_blank">Quick Chat</a> - Basic two-person chat app implementing authentication and Firestore principles.</li>
+  <li><a href="https://github.com/Mohamed-Hatem-1/Shoptopia" target="_blank">Shoptopia</a> - Flutter store app that showcases products using APIs, with categories, detailed views, and basic cart functionality.</li>
 </ul>
 
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -42,6 +43,9 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://hivedb.dev/#/" target="_blank" rel="noreferrer">
+    <img src="https://hivedb.dev/assets/logo.svg" alt="Hive" width="40" height="40"/>
   </a>
 </p>
 
