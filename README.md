@@ -13,9 +13,9 @@
 <h3 align="left">🚀 My Projects:</h3>
 <ul>
   <li><a href="https://github.com/Abd2lhakam19/Fluent-Hands" target="_blank">FluentHands</a> - An app designed for deaf and non-speaking people, enabling smooth communication.</li>
+  <li><a href="https://github.com/Mohamed-Hatem-1/Bookly-App" target="_blank">Bookly App</a> - Flutter app for discovering and exploring computer science and programming books, featuring detailed views, categories, and a search function.</li>
   <li><a href="https://github.com/Mohamed-Hatem-1/Notes-App" target="_blank">Notes App</a> - A Flutter notes app with a dark theme, allowing users to add, edit, and color-code their notes.</li>
   <li><a href="https://github.com/Mohamed-Hatem-1/Quick-Chat" target="_blank">Quick Chat</a> - Basic two-person chat app implementing authentication and Firestore principles.</li>
-  <li><a href="https://github.com/Mohamed-Hatem-1/Shoptopia" target="_blank">Shoptopia</a> - Flutter store app that showcases products using APIs, with categories, detailed views, and basic cart functionality.</li>
 </ul>
 
 <h3 align="left">💻 Languages and Tools:</h3>
